@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cricscore">
+    <output-path>$PROJECT_DIR$/out/artifacts/cricscore/</output-path>
+    <root id="archive" name="cricscore.jar">
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+      <element id="module-output" name="cricscore" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/cricscore/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
